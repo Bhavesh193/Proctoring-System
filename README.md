@@ -10,15 +10,34 @@ A MERN Stack-based Online Proctoring System designed to securely monitor and eva
 
 ---
 
-## 🚀 Features
+### 🚀 Proctoring Features
+👥 Multiple Face Detection
+Detects if more than one person appears in the webcam frame.
 
-- 👨‍💻 Student authentication and login
-- 📷 Live webcam monitoring
-- 🧠 Face detection to prevent impersonation
-- 🖥️ Screen activity tracking (if implemented)
-- 📊 Exam management panel for instructors
-- 🗃️ Real-time data capture and storage
-- 🔒 Secure backend with JWT authentication
+🔄 Tab Switching Detection
+Tracks if the user switches tabs or minimizes the browser window.
+
+👀 Eye Movement Tracking
+Monitors if the user repeatedly looks away from the screen.
+
+✋ Hand Movement Detection
+Detects frequent or suspicious hand gestures near the face.
+
+🗣️ Voice Recognition / Sound Detection
+Detects if unexpected voices are heard during the exam.
+
+🧍‍♂️ Face Movement Tracking
+Alerts if the user frequently moves out of the camera frame.
+
+📦 Object Detection
+Detects presence of mobile phones, books, or any unauthorized items.
+
+📱 Mobile Detection
+Identifies if a mobile phone is being used during the exam.
+
+⚠️ Warning System
+Gives up to 3 warnings for suspicious activity.
+On the 4th violation, the exam is automatically terminated.
 
 ---
 
