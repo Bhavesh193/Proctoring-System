@@ -122,6 +122,12 @@ JWT_SECRET=your_jwt_secret
 
 ---
 
+## 🙏 Special Thanks
+
+A heartfelt thanks to my amazing group members **Prajukta Podili** and **Kajal Dhumal** for their wonderful support, ideas, and contributions throughout the development of this Online Proctoring System.
+
+Your teamwork, dedication, and effort made this project a success. 💻🎉
+
 ## ✍️ Author
 
 Bhavesh Choudhary
